@@ -51,6 +51,7 @@ public class Main
         doubleModulo = doubleOperandA % doubleOperandB;
         System.out.println("Double the remainder of " + doubleOperandA + " and " + doubleOperandB + " is " + (2 * doubleModulo));
 
+
         double lunchCost = 15.50;
         System.out.println("The cost of my lunch is " + lunchCost + ".");
 
@@ -74,8 +75,6 @@ public class Main
 
         String fullName = "Behniya Esmaeil Abadi";
         System.out.println("My full name is " + fullName + ".");
-
-
 
 
     }
